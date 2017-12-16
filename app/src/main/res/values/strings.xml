@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Terrain Elevation Canada</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Set your location below</string>
+    <string name="default_lat_deg">45</string>
+    <string name="default_lat_min_sec">00</string>
+    <string name="default_lon_deg">075</string>
+    <string name="default_lon_min_sec">00</string>
+    <string name="default_azim_deg">00</string>
+    <string name="default_dist_kilometer">10</string>
+    <string name="default_dist_From_kilometer">003</string>
+    <string name="default_dist_To_kilometer">016</string>
+    <string name="default_tx_height_meter">000</string>
+    <string name="button_getElevation_caption">Get Elevation</string>
+    <string name="button_getProfile_caption">Get Profile</string>
+    <string name="button_getEHAAT_caption">Get EHAAT</string>
+    <string name="toast_wrong_coordinate">Invalid coordinate</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string name="top_menu_caption">Select action from list</string>
+    <string name="title_section1">Elevation</string>
+    <string name="title_section2">Profile</string>
+    <string name="title_section3">HAAT</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_example">Example action</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="radials_array">
+        <item>4</item>
+        <item>8</item>
+        <item>18</item>
+        <item>36</item>
+    </string-array>
+
+</resources>
